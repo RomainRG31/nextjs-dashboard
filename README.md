@@ -12,7 +12,7 @@ Pour installer le projet, suis ces étapes :
 
 1. Clone le dépôt :
    ```bash
-   git clone [(https://github.com/RomainRG31/nextjs-dashboard.git)]
+   git clone (https://github.com/RomainRG31/nextjs-dashboard.git)
    npm i
    npm run dev
    
